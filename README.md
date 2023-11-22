@@ -11,11 +11,11 @@ This application is fully functional! But `App.jsx` is getting really crowded. I
 
 Create the new components in the following order (increasing level of difficulty):
 
-1. Header
-1. Footer
-1. Guest List
-1. Dinner Supplies
-1. Guest Form
+X. Header
+x. Footer
+x. Guest List
+x Dinner Supplies
+x. Guest Form
 
 The application should still work the same way. Here is what `App.jsx` could render when the refactor is complete:
 
